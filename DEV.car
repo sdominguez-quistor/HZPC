@@ -1,0 +1,12 @@
+HTTP/1.1 400 Bad Request
+opc-request-id: /19A6D5F71B643A46F72B9994815EBB6F/E4A160D32DA0C41BC34D743058F9F418
+Cache-Control: must-revalidate,no-cache,no-store
+Content-Type: application/json
+Content-Length: 116
+
+{
+"servlet":"jersey",
+"message":"Bad Request",
+"url":"/ic/api/integration/v1/projects/DEV/archive",
+"status":"400"
+}
