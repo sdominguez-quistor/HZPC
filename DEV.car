@@ -1,0 +1,14 @@
+HTTP/1.1 415 Unsupported Media Type
+Date: Wed, 16 Aug 2023 10:53:18 GMT
+opc-request-id: /D27CB585454BE7A80CBD32C1C88C3B20/FD548540B714A7458F8F3551413E236B
+oic-virtualservice: true
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+Expires: Wed, 31 Dec 1969 23:59:59 GMT
+Connection: keep-alive
+Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+Content-Type: application/json
+X-Content-Type-Options: nosniff
+Content-Length: 474
+
+{"_embedded":{"errors":[{"_embedded":{},"_links":{},"logref":null,"message":"Content Type [application/octect-stream] not allowed. Allowed types: [application/json]","path":null}]},"_links":{"self":{"deprecation":null,"href":"/ic/api/integration/v1/projects/DEV/archive?integrationInstance=oic-certification-fromv4diycqh-fr","hreflang":null,"name":null,"profile":null,"templated":false,"title":null,"type":null}},"logref":null,"message":"Unsupported Media Type","path":null}
