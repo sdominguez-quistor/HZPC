@@ -1,0 +1,6 @@
+{
+  "errorCode":"ICS-11388",
+  "status":"HTTP 409 Conflict",
+  "title":"Service Instance has been stopped and is unavailable at this time. Please contact your Service Instance administrator for additional information.",
+  "type":"https://www.w3.org/Protocols/rfc2616/rfc2616-sec10.html#sec10.4.10"
+}
